@@ -1,2 +1,2 @@
 # acumen
-Resources to teach computer science and programing to kids
+Resources to teach computer science and programming for future genius
